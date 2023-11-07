@@ -9,10 +9,6 @@ o
 ?api/src/main/java/Metodos/vol/api/Domain/Biseccion/Calculo.java,1\8\18bba19c843613204e6f28d06d0adf543fd7a0f9
 q
 Aapi/src/main/java/Metodos/vol/api/Domain/Biseccion/Iteracion.java,1\a\1ae3733aaa9bab0a3c2f3584f44876471ca8e137
-u
-Eapi/src/main/java/Metodos/vol/api/Domain/falsaPosicion/CalculoFp.java,0\d\0d8166ae437566c7516b217824fb846e2c973114
-w
-Gapi/src/main/java/Metodos/vol/api/Domain/falsaPosicion/IteracionFp.java,1\5\15b706cb2f6878266d5907db32b7802b2e64bf04
 r
 Bapi/src/main/java/Metodos/vol/api/Domain/response/ApiResponse.java,7\7\774b0112fa4e5f146950ef3ce5dc2787356204ab
 t

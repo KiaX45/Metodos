@@ -27,8 +27,8 @@ public class CalculoFp {
     //Metodos propios de la clase
 
     //Metodo principal de la clase
-    public List<IteracionFp> calcularBiseccion(){
-        List<IteracionFp> resultados = new ArrayList<IteracionFp>();
+    public List<IteracionFp> calcularFP(){
+        List<IteracionFp> resultados = new ArrayList<>();
         //llamamos al metodo para comprobar si es correcto el intervalo dado
         if(calcularF(this.xi) * calcularF(this.xs) >0){
             //No se cumple la condición por lo que no se puede solucionar por este medio
