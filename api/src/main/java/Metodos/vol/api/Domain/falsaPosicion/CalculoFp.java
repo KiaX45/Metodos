@@ -85,7 +85,7 @@ public class CalculoFp {
 
             numeroIteracion++;
 
-            if(numeroIteracion > 43){
+            if(numeroIteracion > 200){
                 System.out.println("Algo malo paso");
                 break;
             }

@@ -80,7 +80,7 @@ public class Calculo {
 
             numeroIteracion++;
 
-            if(numeroIteracion > 20){
+            if(numeroIteracion > 200){
                 System.out.println("Algo malo paso");
                 break;
             }

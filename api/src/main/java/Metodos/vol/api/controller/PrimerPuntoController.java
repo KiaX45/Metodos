@@ -13,6 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/primer")
+@CrossOrigin(origins = "http://localhost:8080")
 public class PrimerPuntoController {
     @PostMapping
     public ResponseEntity<ApiResponse> calcularBiseccion(@RequestBody BiseccionRequest request) {
