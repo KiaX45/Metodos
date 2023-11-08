@@ -19,7 +19,3 @@ u
 Eapi/src/main/java/Metodos/vol/api/Domain/CalculoRaiz/RaizRequest.java,2\e\2e073311130186eebbc76fef7eb58ddad4b10667
 r
 Bapi/src/main/java/Metodos/vol/api/Domain/CalculoRaiz/CalculoR.java,7\1\719941a5b536b22633a054f7d6a9c68e501b675e
-y
-Iapi/src/main/java/Metodos/vol/api/Domain/Biseccion/BiseccionResponse.java,c\1\c14faa490b1dab35d4166d54b6d5d69b37b1ca0d
-y
-Iapi/src/main/java/Metodos/vol/api/Domain/falsaPosicion/FalsaResponse.java,9\5\95921200ca220e1e95e73649467997130f67bbf3
