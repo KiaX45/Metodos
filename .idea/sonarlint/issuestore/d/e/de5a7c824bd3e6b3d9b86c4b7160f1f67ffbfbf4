@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ê•şøÿÿÿÿ8ÛßŞº1
+p
+java:S1128"NRemove this unused import 'Metodos.vol.api.Domain.Biseccion.BiseccionRequest'.(ÖáÁ²ÿÿÿÿÿ8Ñ²‘÷º1
+l
+java:S1128"ORemove this unused import 'Metodos.vol.api.Domain.Biseccion.BiseccionResponse'.(ÎœÔ8Ò²‘÷º1
+b
+java:S1128"ERemove this unused import 'Metodos.vol.api.Domain.Biseccion.Calculo'.(ÍŒ¦ì8Ò²‘÷º1
+i
+java:S1128"GRemove this unused import 'Metodos.vol.api.Domain.Biseccion.Iteracion'.(™×¤Ôşÿÿÿÿ8Ò²‘÷º1

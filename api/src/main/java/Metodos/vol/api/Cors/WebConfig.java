@@ -11,6 +11,7 @@ public class WebConfig implements WebMvcConfigurer {
         registry.addMapping("/**") // Esto aplica la política a todas las rutas
                 .allowedOrigins(
                         "http://localhost:53300", // Añade aquí las URLs permitidas
+                        "http://localhost:8080",
                         "https://sweet-capybara-7f5d4c.netlify.app/"
                 )
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
