@@ -10,7 +10,7 @@ public class WebConfig implements WebMvcConfigurer {
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**") // Esto aplica la política a todas las rutas
                 .allowedOrigins(
-                        "http://localhost:49335", // Añade aquí las URLs permitidas
+                        "http://localhost:53300", // Añade aquí las URLs permitidas
                         "https://sweet-capybara-7f5d4c.netlify.app/"
                 )
                 .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
